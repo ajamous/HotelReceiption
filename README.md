@@ -5,14 +5,14 @@ Requirements:
 
 - Apache Server
 - PHP V.5 or higher.
-- Twilio PHP Library - Download it from here https://www.twilio.com/docs/libraries/php 
+- Twilio PHP Library - Download it from here https://codeload.github.com/twilio/twilio-php/zip/master
 - Twilio Account SID and Token from www.twilio.com 
 
 Installation: 
 
 - CD into your web-server document root directory e.g CD C:\xmpp\apache\htdocs\
 - Clone this project using git, e.g #git clone or Download project to your computer and save it in your web root directory
-- Place the Twilio PHP Library folder in your project https://www.twilio.com/docs/libraries/php
+- Place the Twilio PHP Library folder in your project (Download Link: https://codeload.github.com/twilio/twilio-php/zip/master
 - Insert your Account SID & TOKEN
 - Update phone numbers and names of people you want to send the alert to when RED is clicked for emergency or when GREEN is clicked for cancelation the request.
 - Open your browser and go to http://localhost/HotelReception 
